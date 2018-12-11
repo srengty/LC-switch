@@ -1,5 +1,8 @@
 {
     "name": "LC-switch",
     "version": "1.0.0",
-    "description": ""
+    "description": "",
+    "main": "lc_switch.min.js",
+    "repository": "https://github.com/srengty/LC-switch",
+    "license": "MIT"
 }
